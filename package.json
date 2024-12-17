@@ -13,10 +13,10 @@
     "typecheck": "tsc --noEmit"
   },
   "keywords": [],
-  "author": "Roméo Giorgio",
+  "author": "Dylan OG",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Romeo-Giorgio/create-express-ts-mariadb-api.git"
+    "url": "git+https://github.com/MopiMeri/GestionEntretien.git"
   },
   "license": "MIT",
   "dependencies": {
